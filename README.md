@@ -4,6 +4,8 @@ With this program you can quickly create a password list and immediately crack y
 
 I developed this program for a rar that I urgently needed to find the password for and I wanted to share it because I thought others might need it
 
+I am also attaching test.rar and test.zip files so you can quickly test the program
+
 ## Installation
 
 `git clone https://github.com/TurKLoJeN/SuperCracker/`<br>
